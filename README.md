@@ -1,6 +1,9 @@
 # UniversalStorageKeys
  Universal Storage Keys
  
+ How to Install Wiki
+ https://github.com/WPDevMalroth/UniversalStorageKeys/wiki
+ 
  ![](https://www.uomoons.com/UniversalStorageKeys.png)
  
 Some of the main storage types include:

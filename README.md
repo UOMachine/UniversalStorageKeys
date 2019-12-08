@@ -1,5 +1,6 @@
 # UniversalStorageKeys
  Universal Storage Keys
+ Will only work with the Latest Servuo Repo and Latest VS.
  
  How to Install Wiki
  https://github.com/WPDevMalroth/UniversalStorageKeys/wiki
